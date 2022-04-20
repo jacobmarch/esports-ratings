@@ -5,11 +5,14 @@
 //Classes
 #include "team.h"
 
+//Functions
+#include "matchup.h"
+
 using namespace::std;
 
 int main(){
-    team teamA;
+    team teamA, teamB;
 
-    teamA.setName("Lions");
-    cout << teamA.getName();
+    
+
 }
